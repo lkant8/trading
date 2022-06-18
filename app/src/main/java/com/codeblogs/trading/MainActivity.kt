@@ -17,7 +17,7 @@ class MainActivity : ComponentActivity() {
             TradingTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(color = MaterialTheme.colors.background) {
-                    Greeting("Android Test")
+                    Greeting("Android DevOps Setup successfully ")
                 }
             }
         }
