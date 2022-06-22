@@ -14,3 +14,7 @@ company information and ohcl chart of the stock price is displayed.
 * Suspended functions
 * Retrofit & Okhttp3
 * Rx Kotlin
+
+# Api Docs
+- https://www.alphavantage.co/
+- 
